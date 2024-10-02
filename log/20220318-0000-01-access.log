@@ -1,0 +1,4 @@
+[0mOPTIONS /api/order/notifications [32m204[0m 5.180 ms - 0[0m
+[0mGET /api/order/notifications [36m304[0m 63.816 ms - -[0m
+[0mOPTIONS /api/order/notifications [32m204[0m 1.411 ms - 0[0m
+[0mGET /api/order/notifications [36m304[0m 25.108 ms - -[0m

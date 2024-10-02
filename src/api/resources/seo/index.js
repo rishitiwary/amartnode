@@ -1,0 +1,1 @@
+export { seoRouter } from './seo.router';

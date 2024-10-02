@@ -1,0 +1,10 @@
+[0mGET /api/website/catalog/product/search?filter_category=personal-care [36m304[0m 340.818 ms - -[0m
+[0mGET /api/website/image/banner?type=1 [36m304[0m 47.441 ms - -[0m
+[0mGET /api/mobile/collection/list [36m304[0m 45.980 ms - -[0m
+[0mGET /api/mobile/category/list [36m304[0m 47.498 ms - -[0m
+[0mGET /api/website/catalog/product/search?filter_category=personal-care [32m200[0m 133.055 ms - 3294[0m
+[0mGET /api/website/image/banner?type=1 [36m304[0m 130.060 ms - -[0m
+[0mGET /api/mobile/collection/list [36m304[0m 85.886 ms - -[0m
+[0mGET /api/mobile/category/list [36m304[0m 86.872 ms - -[0m
+[0mGET /api/website/catalog/product/search?filter_category=personal-care [36m304[0m 155.544 ms - -[0m
+[0mGET /api/mobile/category/list [36m304[0m 70.757 ms - -[0m

@@ -1,0 +1,4 @@
+[0mGET /api/website/image/banner?type=1 [36m304[0m 207.677 ms - -[0m
+[0mGET /api/mobile/collection/list [36m304[0m 149.774 ms - -[0m
+[0mGET /api/mobile/category/list [36m304[0m 156.866 ms - -[0m
+[0mGET /api/website/catalog/product/search?filter_category=personal-care [32m200[0m 213.392 ms - 3294[0m

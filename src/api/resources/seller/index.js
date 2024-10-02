@@ -1,0 +1,1 @@
+export { sellerRouter } from './seller.router';

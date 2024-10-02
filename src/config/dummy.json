@@ -1,0 +1,227 @@
+{
+  "storage_size": [
+    { "id": 1, "name": "Upto 249 GB" },
+    { "id": 2, "name": "256 - 499 GB" },
+    { "id": 3, "name": "500 - 999 GB" },
+    { "id": 4, "name": "1 TB" },
+    { "id": 5, "name": "1.5 TB" }
+  ],
+  "storage_type": [
+    { "id": 1, "name": "SSD" },
+    { "id": 2, "name": "HDD" },
+    { "id": 3, "name": "SSD+HDD (Hybrid)" },
+    { "id": 4, "name": "eMMC" },
+    { "id": 5, "name": "Flash" }
+  ],
+  "network_type": [
+    { "id": "5G", "slug": "5G", "name": "5G" },
+    { "id": "4G", "slug": "4G", "name": "4G" },
+    { "id": "3G", "slug": "3G", "name": "3G" },
+    { "id": "2G", "slug": "2G", "name": "2G" },
+    { "id": "wifi", "slug": "wifi", "name": "Wifi" }
+  ],
+  "model_year": [
+    { "id": "2023", "slug": "2023", "name": 2023 },
+    { "id": "2022", "slug": "2022", "name": 2022 },
+    { "id": "2021", "slug": "2021", "name": 2021 },
+    { "id": "2020", "slug": "2020", "name": 2020 },
+    { "id": "2019", "slug": "2019", "name": 2019 },
+    { "id": "2018", "slug": "2028", "name": 2018 }
+  ],
+  "os_type": [
+    { "id": "1", "slug": "ios", "name": "IOS" },
+    { "id": "2", "slug": "android", "name": "Android" },
+    { "id": "3", "slug": "blackberry-os", "name": "Blackberry OS" },
+    { "id": "4", "slug": "windows", "name": "Windows" },
+    { "id": "5", "slug": "MacOS", "name": "MacOS" },
+    { "id": "6", "slug": "DOS", "name": "DOS" },
+    { "id": "7", "slug": "Chrome-OS", "name": "Chrome OS" },
+    { "id": "8", "slug": "Ubuntu", "name": "Ubuntu" },
+    { "id": "9", "slug": "Linux", "name": "Linux" },
+    { "id": "10", "slug": "Universal", "name": "Universal" }
+  ],
+  "memory": [
+    { "id": "1", "slug": "Upto_16_GB", "name": "Upto 16 GB" },
+    { "id": "2", "slug": "32-GB", "name": "32 GB" },
+    { "id": "3", "slug": "64-GB", "name": "64 GB" },
+    { "id": "4", "slug": "128-GB", "name": "128 GB" },
+    { "id": "5", "slug": "256-GB", "name": "256 GB" },
+    { "id": "6", "slug": "512-GB", "name": "512 GB" },
+    { "id": "7", "slug": "1TB", "name": "1TB" }
+  ],
+  "os_version": [
+    { "id": 1, "name": "Windows 11" },
+    { "id": 2, "name": "Windows 11 Pro" },
+    { "id": 3, "name": "Windows 11 Home" },
+    { "id": 4, "name": "Windows 10" },
+    { "id": 5, "name": "Windows 10 Pro" },
+    { "id": 6, "name": "Windows 10 Home" },
+    { "id": 7, "name": "Free DOS" },
+    { "id": 8, "name": "OSX" },
+    { "id": 9, "name": "Mac OS X High Sierra" },
+    { "id": 10, "name": "Chrome OS" },
+    { "id": 11, "name": "macOS Mojave" },
+    { "id": 12, "name": "Mac OS X El Capitan" },
+    { "id": 13, "name": "Mac OS X 10.3 Panther" },
+    { "id": 14, "name": "macOS Monterey" },
+    { "id": 15, "name": "Mac OS X El Capitan" },
+    { "id": 16, "name": "Windows 8" },
+    { "id": 17, "name": "Windows 9" }
+  ],
+  "graphics_memory": [
+    { "id": 1, "name": "Intel UHD Graphics" },
+    { "id": 2, "name": "Intel Xe Graphics" },
+    { "id": 3, "name": "Intel" },
+    { "id": 4, "name": "Integrated Graphics" },
+    { "id": 5, "name": "Intel HD Graphics" },
+    { "id": 6, "name": "Intel Iris/Iris Plus Graphics" },
+    { "id": 7, "name": "Nvidia GeForce RTX Series" },
+    { "id": 8, "name": "OSX" },
+    { "id": 9, "name": "NVIDIA" },
+    { "id": 10, "name": "Nvidia GeForce MX Series" },
+    { "id": 11, "name": "Nvidia GeForce GTX Series" },
+    { "id": 12, "name": "AMD" },
+    { "id": 13, "name": "HD Graphics" },
+    { "id": 14, "name": "AMD Radeon Pro" },
+    { "id": 15, "name": "UHD Graphics" },
+    { "id": 16, "name": "Iris Xe Graphics" },
+    { "id": 17, "name": "AMD Radeon R5" },
+    { "id": 18, "name": "AMD Radeon RX" },
+    { "id": 19, "name": "Nvidia Quadro Series" },
+    { "id": 20, "name": "AMD Radeon R7" },
+    { "id": 21, "name": "Iris Plus Graphics" },
+    { "id": 22, "name": "NVIDIA GeForce RTX" },
+    { "id": 23, "name": "NVIDIA GeForce GTX 1650" },
+    { "id": 24, "name": "NVIDIA GeForce MX330" },
+    { "id": 25, "name": "NVIDIA GeForce MX350" },
+    { "id": 26, "name": "NVIDIA GeForce GTX 1650 (Laptop)" },
+    { "id": 27, "name": "NVIDIA GeForce GTX 1660 Ti (Laptop)" },
+    { "id": 28, "name": "Radeon" },
+    { "id": 29, "name": "AMD Radeon VII" },
+    { "id": 30, "name": "GeForce" },
+    { "id": 31, "name": "GeForce GTX" },
+    { "id": 32, "name": "GeForce RTX" },
+    { "id": 33, "name": "NVIDIA GeForce GTX" },
+    { "id": 34, "name": "NVIDIA GeForce MX230" }
+  ],
+  "screen_size": [
+    { "id": "1", "slug": "17-Inches-Above", "name": "17 Inches & Above" },
+    { "id": "2", "slug": "16-to-16.9-Inches", "name": "16 to 16.9 Inches" },
+    { "id": "3", "slug": "15-to-15.9-Inches", "name": "15 to 15.9 Inches" },
+    { "id": "4", "slug": "14-to-14.9-Inches", "name": "14 to 14.9 Inches" },
+    { "id": "5", "slug": "13-to-13.9-Inches", "name": "13 to 13.9 Inches" },
+    { "id": "6", "slug": "12-to-12.9-Inches", "name": "12 to 12.9 Inches" },
+    { "id": "7", "slug": "11-to-11.9-Inches", "name": "11 to 11.9 Inches" },
+    { "id": "8", "slug": "10.1-to-11-Inches", "name": "10.1 to 11 Inches" },
+    { "id": "9", "slug": "8.1-to-9-Inches", "name": "8.1 - 9 Inches" },
+    { "id": "10", "slug": "6.5-8-Inches", "name": "6.5 - 8 Inches" },
+    { "id": "11", "slug": "5.5-5.9-inches", "name": "5.5 - 5.9 inches" },
+    { "id": "12", "slug": "5-5.4-inches", "name": "5 - 5.4 inches" },
+    { "id": "13", "slug": "Below-5-Inches", "name": "Below 5 Inches" }
+  ],
+  "display_resolution_type": [
+    { "id": 1, "name": "Full HD" },
+    { "id": 2, "name": "HD" },
+    { "id": 3, "name": "QHD" },
+    { "id": 4, "name": "UHD" },
+    { "id": 5, "name": "Quad HD" },
+    { "id": 6, "name": "Ultra HD" },
+    { "id": 7, "name": "4K" },
+    { "id": 8, "name": "HD+" },
+    { "id": 9, "name": "5K Retina" },
+    { "id": 10, "name": "WQHD" }
+  ],
+  "laptop_type": [
+    { "id": 1, "name": "Notebook" },
+    { "id": 2, "name": "Convertible 2 in 1" },
+    { "id": 3, "name": "Ultrabook" }
+  ],
+  "battery_capacity": [
+    { "id": "1", "slug": "Upto-1000-mAh", "name": "Upto 1000 mAh" },
+    { "id": "2", "slug": "1000-1999-mAh", "name": "1000 - 1999 mAh" },
+    { "id": "3", "slug": "2000-2999-mAh", "name": "2000 - 2999 mAh" },
+    { "id": "4", "slug": "3000-3999-mAh", "name": "3000 - 3999 mAh" },
+    { "id": "5", "slug": "4000-4999-mAh", "name": "4000 - 4999 mAh" },
+    { "id": "6", "slug": "5000-mAh-&-Above", "name": "5000 mAh & Above" },
+    { "id": "7", "slug": "16-Hours", "name": "16 Hours" },
+    { "id": "8", "slug": "14-Hours", "name": "14 Hours" },
+    { "id": "9", "slug": "10-Hours", "name": "10 Hours" },
+    { "id": "10", "slug": "8-Hours", "name": "8 Hours" },
+    { "id": "11", "slug": "7-Hours", "name": "7 Hours" },
+    { "id": "12", "slug": "6-Hours", "name": "6 Hours" },
+    { "id": "13", "slug": "4-Hours", "name": "4 Hours" },
+    { "id": "14", "slug": "3-Hours", "name": "3 Hours" },
+    { "id": "15", "slug": "2-Hours", "name": "2 Hours" }
+  ],
+  "primary_camera": [
+    { "id": "above_64_MP", "slug": "above_64_MP", "name": "Upto 1000 mAh" },
+    { "id": "upto_48_64_MP", "slug": "upto_48_64_MP", "name": "48 - 63.9 MP" },
+    { "id": "upto_24_48_MP", "slug": "upto_24_48_MP", "name": "24 - 47.9 MP" },
+    { "id": "upto_20_24_MP", "slug": "upto_20_24_MP", "name": "20 - 23.9 MP" },
+    { "id": "upto_16_20_MP", "slug": "upto_16_20_MP", "name": "16 - 19.9 MP" },
+    { "id": "upto_12_16_MP", "slug": "upto_12_16_MP", "name": "12 - 15.9 MP" },
+    { "id": "upto_12_MP", "slug": "upto_12_MP", "name": "8 - 11.9 MP" },
+    { "id": "upto_8_MP", "slug": "upto_8_MP", "name": "Upto 7.9 MP" }
+  ],
+  "secondary_camera": [
+    { "id": "above_32_MP", "slug": "above_32_MP", "name": "32 MP & Above" },
+    { "id": "upto_16_32_MP", "slug": "upto_16_32_MP", "name": "16 - 31.9 MP" },
+    { "id": "upto_12_16_MP", "slug": "upto_12_16_MP", "name": "12 - 15.9 MP" },
+    { "id": "upto_8_12_MP", "slug": "upto_8_12_MP", "name": "8 - 11.9 MP" },
+    { "id": "upto_5_8_MP", "slug": "upto_5_8_MP", "name": "5 - 7.9 MP" },
+    { "id": "upto_5_MP", "slug": "upto_5_MP", "name": "Upto 4.9 MP" }
+  ],
+  "sim_count": [
+    { "id": "double", "slug": "double", "name": "Dual Sim" },
+    { "id": "single", "slug": "single", "name": "Single Sim" },
+    { "id": "triple", "slug": "triple", "name": "Triple Sim" },
+    { "id": "no_sim_card", "slug": "no_sim_card", "name": "No sim card" }
+  ],
+  "interface": [
+    { "id": "wifi_cellular", "slug": "wifi_cellular", "name": "Wifi+Cellular" },
+    { "id": "bluetooth", "slug": "bluetooth", "name": "Bluetooth/Wireless" },
+    { "id": "4g", "slug": "4g", "name": "4G" },
+    { "id": "wireless", "slug": "wireless", "name": "Wireless" },
+    { "id": "wifi", "slug": "wifi", "name": "Wifi" },
+    { "id": "type_C", "slug": "type_C", "name": "USB Type C" }
+  ],
+  "international_warranty": [
+    { "id": 1, "name": "UAE Version" },
+    { "id": 2, "name": "International Version" },
+    { "id": 3, "name": "KSA Version" },
+    { "id": 4, "name": "USA Version" },
+    { "id": 5, "name": "Physical Dual Sim Version" }
+  ],
+  "compatibility": [
+    { "id": "type_C", "slug": "type_C", "name": "Type C" },
+    { "id": "port", "slug": "port", "name": "Port" },
+    { "id": "micro", "slug": "micro", "name": "Micro USB" },
+    { "id": "mini", "slug": "mini", "name": "Mini USB" },
+    { "id": "usb", "slug": "usb", "name": "USB" }
+  ],
+  "Ram": [
+    { "id": "32GB_More", "slug": "32GB_More", "name": "32GB & More" },
+    { "id": "16GB", "slug": "16GB", "name": "16 GB" },
+    { "id": "12GB", "slug": "12GB", "name": "12 GB" },
+    { "id": "8GB", "slug": "8GB", "name": "8 GB" },
+    { "id": "4GB", "slug": "4GB", "name": "4 GB" },
+    { "id": "3GB", "slug": "3GB", "name": "3 GB" },
+    { "id": "2GB", "slug": "2GB", "name": "2 GB" },
+    { "id": "upto_1_GB", "slug": "upto_1_GB", "name": "Upto 1 GB" }
+  ],
+  "warranty_period": [
+    { "id": "1", "name": "1 Month" },
+    { "id": "2", "name": "3 Month" },
+    { "id": "3", "name": "6 Month" },
+    { "id": "4", "name": "1 Years" },
+    { "id": "5", "name": "2 Years" }
+  ],
+  "warranty_type": [
+    { "id": "Local", "name": "Local Seller Warranty" },
+    { "id": "No", "name": "No Warranty" },
+    { "id": "International", "name": "International Warranty" },
+    { "id": "100% orginal", "name": "100% original product" },
+    { "id": "Brand", "name": "Brand Warranty" },
+    { "id": "Seller", "name": "Seller Warranty" }
+  ]
+}
