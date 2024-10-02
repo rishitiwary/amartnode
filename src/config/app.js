@@ -42,7 +42,7 @@ export default {
 
   AWS_SECRET_KEY: "",
 
-  AWS_BUCKET: "ashamartfiles",
+  AWS_BUCKET: "",
 
   AWS_REGION: "ap-south-1",
 };
