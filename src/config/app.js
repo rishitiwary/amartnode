@@ -38,9 +38,9 @@ export default {
    * aws secret key
    */
 
-  AWS_ACCESS_KEY: "AKIA47CRZ4TMJTG7DXNZ",
+  AWS_ACCESS_KEY: "",
 
-  AWS_SECRET_KEY: "PuoNCiwLLTFFcBAEMxmo4/Vl3Nh3MCZ7e6c5hx+1",
+  AWS_SECRET_KEY: "",
 
   AWS_BUCKET: "ashamartfiles",
 
